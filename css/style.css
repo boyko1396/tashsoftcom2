@@ -470,6 +470,7 @@ h6,
 .cover-section {
     background: url(../images/site-bg.jpg) 50% no-repeat;
     background-size: cover;
+    min-height: 100vh;
     padding: 110rem 0 75rem;
 }
 
